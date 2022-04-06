@@ -1,0 +1,421 @@
+2020-05-26 20:50:37,842 INFO  [Log] Total testcase = 6 
+2020-05-26 20:50:37,845 INFO  [Log] Total testcase = LogIn_01 
+2020-05-26 20:50:37,845 INFO  [Log] Run mode = Yes 
+2020-05-26 20:50:37,845 INFO  [Log] Teststep = 1 
+2020-05-26 20:50:37,846 INFO  [Log] Last step = 22 
+2020-05-26 20:50:37,847 INFO  [Log] Action keyword = openBrowser 
+2020-05-26 20:50:37,847 INFO  [Log] Page Object =  
+2020-05-26 20:50:37,847 INFO  [Log] Data set = Chrome 
+2020-05-26 20:50:37,847 INFO  [Log] Opening Browser 
+2020-05-26 20:51:36,433 INFO  [Log] Total testcase = 6 
+2020-05-26 20:51:36,436 INFO  [Log] Total testcase = LogIn_01 
+2020-05-26 20:51:36,436 INFO  [Log] Run mode = Yes 
+2020-05-26 20:51:36,437 INFO  [Log] Teststep = 1 
+2020-05-26 20:51:36,440 INFO  [Log] Last step = 22 
+2020-05-26 20:51:36,440 INFO  [Log] Action keyword = openBrowser 
+2020-05-26 20:51:36,441 INFO  [Log] Page Object =  
+2020-05-26 20:51:36,441 INFO  [Log] Data set = Chrome 
+2020-05-26 20:51:36,441 INFO  [Log] Opening Browser 
+2020-05-26 20:56:51,299 INFO  [Log] Total testcase = 6 
+2020-05-26 20:56:51,301 INFO  [Log] Total testcase = LogIn_01 
+2020-05-26 20:56:51,302 INFO  [Log] Run mode = Yes 
+2020-05-26 20:56:51,302 INFO  [Log] Teststep = 1 
+2020-05-26 20:56:51,304 INFO  [Log] Last step = 22 
+2020-05-26 20:56:51,304 INFO  [Log] Action keyword = openBrowser 
+2020-05-26 20:56:51,304 INFO  [Log] Page Object =  
+2020-05-26 20:56:51,304 INFO  [Log] Data set = Chrome 
+2020-05-26 20:56:51,305 INFO  [Log] Opening Browser 
+2020-05-26 20:58:38,053 INFO  [Log] Total testcase = 6 
+2020-05-26 20:58:38,057 INFO  [Log] Total testcase = LogIn_01 
+2020-05-26 20:58:38,057 INFO  [Log] Run mode = Yes 
+2020-05-26 20:58:38,057 INFO  [Log] Teststep = 1 
+2020-05-26 20:58:38,060 INFO  [Log] Last step = 22 
+2020-05-26 20:58:38,060 INFO  [Log] Action keyword = openBrowser 
+2020-05-26 20:58:38,060 INFO  [Log] Page Object =  
+2020-05-26 20:58:38,060 INFO  [Log] Data set = Firefox 
+2020-05-26 20:58:38,060 INFO  [Log] Opening Browser 
+2020-05-26 21:01:11,100 INFO  [Log] Total testcase = 6 
+2020-05-26 21:01:11,103 INFO  [Log] Total testcase = LogIn_01 
+2020-05-26 21:01:11,103 INFO  [Log] Run mode = Yes 
+2020-05-26 21:01:11,104 INFO  [Log] Teststep = 1 
+2020-05-26 21:01:11,106 INFO  [Log] Last step = 22 
+2020-05-26 21:01:11,106 INFO  [Log] Action keyword = openBrowser 
+2020-05-26 21:01:11,106 INFO  [Log] Page Object =  
+2020-05-26 21:01:11,106 INFO  [Log] Data set = Chrome 
+2020-05-26 21:01:11,107 INFO  [Log] Opening Browser 
+2020-05-26 21:11:15,673 INFO  [Log] Total testcase = 6 
+2020-05-26 21:11:15,676 INFO  [Log] Total testcase = LogIn_01 
+2020-05-26 21:11:15,676 INFO  [Log] Run mode = Yes 
+2020-05-26 21:11:15,676 INFO  [Log] Teststep = 1 
+2020-05-26 21:11:15,678 INFO  [Log] Last step = 22 
+2020-05-26 21:11:15,678 INFO  [Log] Action keyword = openBrowser 
+2020-05-26 21:11:15,678 INFO  [Log] Page Object =  
+2020-05-26 21:11:15,678 INFO  [Log] Data set = Chrome 
+2020-05-26 21:11:15,678 INFO  [Log] Opening Browser 
+2020-05-26 21:11:19,340 INFO  [Log] Chrome browser started 
+2020-05-26 21:11:21,552 INFO  [Log] Action keyword = navigate 
+2020-05-26 21:11:21,552 INFO  [Log] Page Object =  
+2020-05-26 21:11:21,552 INFO  [Log] Data set =  
+2020-05-26 21:11:21,552 INFO  [Log] Navigating to URL 
+2020-05-26 21:11:26,582 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:26,582 INFO  [Log] Page Object = //input[@name='uid'] 
+2020-05-26 21:11:26,582 INFO  [Log] Data set = mngr260207 
+2020-05-26 21:11:26,582 INFO  [Log] Entering the text in //input[@name='uid'] 
+2020-05-26 21:11:26,738 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:26,739 INFO  [Log] Page Object = //input[@name='password'] 
+2020-05-26 21:11:26,739 INFO  [Log] Data set = ehehege 
+2020-05-26 21:11:26,739 INFO  [Log] Entering the text in //input[@name='password'] 
+2020-05-26 21:11:26,907 INFO  [Log] Action keyword = click 
+2020-05-26 21:11:26,907 INFO  [Log] Page Object = //input[@name='btnLogin'] 
+2020-05-26 21:11:26,907 INFO  [Log] Data set =  
+2020-05-26 21:11:26,907 INFO  [Log] Clicking on Webelement //input[@name='btnLogin'] 
+2020-05-26 21:11:29,031 INFO  [Log] Action keyword = isControlDisplayed 
+2020-05-26 21:11:29,031 INFO  [Log] Page Object = //a[contains(text(),'Manager')] 
+2020-05-26 21:11:29,031 INFO  [Log] Data set =  
+2020-05-26 21:11:29,031 INFO  [Log] Check WebElement is displayed //a[contains(text(),'Manager')] 
+2020-05-26 21:11:29,116 INFO  [Log] Action keyword = click 
+2020-05-26 21:11:29,116 INFO  [Log] Page Object = //a[contains(text(),'New Customer')] 
+2020-05-26 21:11:29,116 INFO  [Log] Data set =  
+2020-05-26 21:11:29,116 INFO  [Log] Clicking on Webelement //a[contains(text(),'New Customer')] 
+2020-05-26 21:11:31,218 INFO  [Log] Action keyword = isControlDisplayed 
+2020-05-26 21:11:31,218 INFO  [Log] Page Object = //input[@name='name'] 
+2020-05-26 21:11:31,218 INFO  [Log] Data set =  
+2020-05-26 21:11:31,218 INFO  [Log] Check WebElement is displayed //input[@name='name'] 
+2020-05-26 21:11:31,286 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:31,286 INFO  [Log] Page Object = //input[@name='name'] 
+2020-05-26 21:11:31,286 INFO  [Log] Data set = John Terry 
+2020-05-26 21:11:31,286 INFO  [Log] Entering the text in //input[@name='name'] 
+2020-05-26 21:11:31,459 INFO  [Log] Action keyword = click 
+2020-05-26 21:11:31,459 INFO  [Log] Page Object = //input[@value='m'] 
+2020-05-26 21:11:31,459 INFO  [Log] Data set =  
+2020-05-26 21:11:31,459 INFO  [Log] Clicking on Webelement //input[@value='m'] 
+2020-05-26 21:11:31,552 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:31,552 INFO  [Log] Page Object = //*[@id='dob'] 
+2020-05-26 21:11:31,552 INFO  [Log] Data set = 01-01-1999 
+2020-05-26 21:11:31,552 INFO  [Log] Entering the text in //*[@id='dob'] 
+2020-05-26 21:11:31,671 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:31,671 INFO  [Log] Page Object = //textarea[@name='addr'] 
+2020-05-26 21:11:31,671 INFO  [Log] Data set = 209 PO Box 
+2020-05-26 21:11:31,671 INFO  [Log] Entering the text in //textarea[@name='addr'] 
+2020-05-26 21:11:31,783 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:31,783 INFO  [Log] Page Object = //input[@name='city'] 
+2020-05-26 21:11:31,783 INFO  [Log] Data set = Los Angeles 
+2020-05-26 21:11:31,783 INFO  [Log] Entering the text in //input[@name='city'] 
+2020-05-26 21:11:31,904 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:31,904 INFO  [Log] Page Object = //input[@name='state'] 
+2020-05-26 21:11:31,904 INFO  [Log] Data set = Hawaii 
+2020-05-26 21:11:31,904 INFO  [Log] Entering the text in //input[@name='state'] 
+2020-05-26 21:11:32,009 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:32,009 INFO  [Log] Page Object = //input[@name='pinno'] 
+2020-05-26 21:11:32,009 INFO  [Log] Data set = 635985 
+2020-05-26 21:11:32,009 INFO  [Log] Entering the text in //input[@name='pinno'] 
+2020-05-26 21:11:32,118 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:32,118 INFO  [Log] Page Object = //input[@name='telephoneno'] 
+2020-05-26 21:11:32,118 INFO  [Log] Data set = 0987336985 
+2020-05-26 21:11:32,118 INFO  [Log] Entering the text in //input[@name='telephoneno'] 
+2020-05-26 21:11:32,247 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:32,247 INFO  [Log] Page Object = //input[@name='emailid'] 
+2020-05-26 21:11:32,248 INFO  [Log] Data set = daominhdam1896539@gmail.com 
+2020-05-26 21:11:32,248 INFO  [Log] Entering the text in //input[@name='emailid'] 
+2020-05-26 21:11:32,448 INFO  [Log] Action keyword = input 
+2020-05-26 21:11:32,448 INFO  [Log] Page Object = //input[@name='password'] 
+2020-05-26 21:11:32,448 INFO  [Log] Data set = 123456 
+2020-05-26 21:11:32,448 INFO  [Log] Entering the text in //input[@name='password'] 
+2020-05-26 21:11:32,531 INFO  [Log] Action keyword = click 
+2020-05-26 21:11:32,532 INFO  [Log] Page Object = //input[@name='sub'] 
+2020-05-26 21:11:32,532 INFO  [Log] Data set =  
+2020-05-26 21:11:32,532 INFO  [Log] Clicking on Webelement //input[@name='sub'] 
+2020-05-26 21:11:34,616 INFO  [Log] Action keyword = isControlDisplayed 
+2020-05-26 21:11:34,616 INFO  [Log] Page Object = //p[contains(text(),'Customer Registered Successfully!!!')] 
+2020-05-26 21:11:34,616 INFO  [Log] Data set =  
+2020-05-26 21:11:34,616 INFO  [Log] Check WebElement is displayed //p[contains(text(),'Customer Registered Successfully!!!')] 
+2020-05-26 21:11:34,690 INFO  [Log] Action keyword = closeBrowser 
+2020-05-26 21:11:34,690 INFO  [Log] Page Object =  
+2020-05-26 21:11:34,690 INFO  [Log] Data set =  
+2020-05-26 21:11:34,690 INFO  [Log] Closing the browser 
+2022-04-05 23:41:19,164 INFO  [Log] Total testcase = 6 
+2022-04-05 23:41:19,170 INFO  [Log] Total testcase = LogIn_01 
+2022-04-05 23:41:19,170 INFO  [Log] Run mode = Yes 
+2022-04-05 23:41:19,170 INFO  [Log] Teststep = 1 
+2022-04-05 23:41:19,173 INFO  [Log] Last step = 22 
+2022-04-05 23:41:19,174 INFO  [Log] Action keyword = openBrowser 
+2022-04-05 23:41:19,174 INFO  [Log] Page Object =  
+2022-04-05 23:41:19,174 INFO  [Log] Data set = Chrome 
+2022-04-05 23:41:19,174 INFO  [Log] Opening Browser 
+2022-04-05 23:41:24,649 INFO  [Log] Chrome browser started 
+2022-04-05 23:41:25,003 INFO  [Log] Action keyword = navigate 
+2022-04-05 23:41:25,004 INFO  [Log] Page Object =  
+2022-04-05 23:41:25,004 INFO  [Log] Data set =  
+2022-04-05 23:41:25,004 INFO  [Log] Navigating to URL 
+2022-04-05 23:41:29,636 INFO  [Log] Action keyword = input 
+2022-04-05 23:41:29,637 INFO  [Log] Page Object = //input[@name='uid'] 
+2022-04-05 23:41:29,637 INFO  [Log] Data set = mngr260207 
+2022-04-05 23:41:29,637 INFO  [Log] Entering the text in //input[@name='uid'] 
+2022-04-05 23:41:29,989 INFO  [Log] Action keyword = input 
+2022-04-05 23:41:29,990 INFO  [Log] Page Object = //input[@name='password'] 
+2022-04-05 23:41:29,990 INFO  [Log] Data set = ehehege 
+2022-04-05 23:41:29,990 INFO  [Log] Entering the text in //input[@name='password'] 
+2022-04-05 23:41:30,321 INFO  [Log] Action keyword = click 
+2022-04-05 23:41:30,321 INFO  [Log] Page Object = //input[@name='btnLogin'] 
+2022-04-05 23:41:30,321 INFO  [Log] Data set =  
+2022-04-05 23:41:30,321 INFO  [Log] Clicking on Webelement //input[@name='btnLogin'] 
+2022-04-05 23:41:36,071 INFO  [Log] Action keyword = isControlDisplayed 
+2022-04-05 23:41:36,071 INFO  [Log] Page Object = //a[contains(text(),'Manager')] 
+2022-04-05 23:41:36,072 INFO  [Log] Data set =  
+2022-04-05 23:41:36,072 INFO  [Log] Check WebElement is displayed //a[contains(text(),'Manager')] 
+2022-04-05 23:41:51,136 ERROR [Log] Control not displayed --- no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Manager')]"}
+  (Session info: chrome=99.0.4844.84)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-11PKG1U', ip: '192.168.45.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59667}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c03373619428e8fce9c4f56083b581f7
+*** Element info: {Using=xpath, value=//a[contains(text(),'Manager')]} 
+2022-04-05 23:41:51,186 INFO  [Log] Closing the browser 
+2022-04-05 23:44:07,743 INFO  [Log] Total testcase = 6 
+2022-04-05 23:44:07,748 INFO  [Log] Total testcase = LogIn_01 
+2022-04-05 23:44:07,748 INFO  [Log] Run mode = Yes 
+2022-04-05 23:44:07,748 INFO  [Log] Teststep = 1 
+2022-04-05 23:44:07,752 INFO  [Log] Last step = 22 
+2022-04-05 23:44:07,752 INFO  [Log] Action keyword = openBrowser 
+2022-04-05 23:44:07,752 INFO  [Log] Page Object =  
+2022-04-05 23:44:07,752 INFO  [Log] Data set = Chrome 
+2022-04-05 23:44:07,753 INFO  [Log] Opening Browser 
+2022-04-05 23:44:10,804 INFO  [Log] Chrome browser started 
+2022-04-05 23:44:11,290 INFO  [Log] Action keyword = navigate 
+2022-04-05 23:44:11,290 INFO  [Log] Page Object =  
+2022-04-05 23:44:11,291 INFO  [Log] Data set =  
+2022-04-05 23:44:11,291 INFO  [Log] Navigating to URL 
+2022-04-05 23:44:15,990 INFO  [Log] Action keyword = input 
+2022-04-05 23:44:15,990 INFO  [Log] Page Object = //input[@name='uid'] 
+2022-04-05 23:44:15,991 INFO  [Log] Data set = mngr260207 
+2022-04-05 23:44:15,991 INFO  [Log] Entering the text in //input[@name='uid'] 
+2022-04-05 23:44:16,308 INFO  [Log] Action keyword = input 
+2022-04-05 23:44:16,308 INFO  [Log] Page Object = //input[@name='password'] 
+2022-04-05 23:44:16,309 INFO  [Log] Data set = ehehege 
+2022-04-05 23:44:16,309 INFO  [Log] Entering the text in //input[@name='password'] 
+2022-04-05 23:44:16,565 INFO  [Log] Action keyword = click 
+2022-04-05 23:44:16,565 INFO  [Log] Page Object = //input[@name='btnLogin'] 
+2022-04-05 23:44:16,566 INFO  [Log] Data set =  
+2022-04-05 23:44:16,566 INFO  [Log] Clicking on Webelement //input[@name='btnLogin'] 
+2022-04-05 23:44:17,121 INFO  [Log] Action keyword = isControlDisplayed 
+2022-04-05 23:44:17,121 INFO  [Log] Page Object = //a[contains(text(),'Manager')] 
+2022-04-05 23:44:17,121 INFO  [Log] Data set =  
+2022-04-05 23:44:17,122 INFO  [Log] Check WebElement is displayed //a[contains(text(),'Manager')] 
+2022-04-05 23:44:17,163 ERROR [Log] Control not displayed --- unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=99.0.4844.84): User or Password is not valid
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-11PKG1U', ip: '192.168.45.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a762e775b363fce3efcadcc55c2eb22
+*** Element info: {Using=xpath, value=//a[contains(text(),'Manager')]} 
+2022-04-05 23:44:17,295 INFO  [Log] Closing the browser 
+2022-04-05 23:44:31,920 INFO  [Log] Total testcase = 6 
+2022-04-05 23:44:31,925 INFO  [Log] Total testcase = LogIn_01 
+2022-04-05 23:44:31,925 INFO  [Log] Run mode = Yes 
+2022-04-05 23:44:31,926 INFO  [Log] Teststep = 1 
+2022-04-05 23:44:31,929 INFO  [Log] Last step = 22 
+2022-04-05 23:44:31,929 INFO  [Log] Action keyword = openBrowser 
+2022-04-05 23:44:31,929 INFO  [Log] Page Object =  
+2022-04-05 23:44:31,930 INFO  [Log] Data set = Chrome 
+2022-04-05 23:44:31,930 INFO  [Log] Opening Browser 
+2022-04-05 23:44:34,577 INFO  [Log] Chrome browser started 
+2022-04-05 23:44:35,081 INFO  [Log] Action keyword = navigate 
+2022-04-05 23:44:35,082 INFO  [Log] Page Object =  
+2022-04-05 23:44:35,082 INFO  [Log] Data set =  
+2022-04-05 23:44:35,082 INFO  [Log] Navigating to URL 
+2022-04-05 23:44:39,770 INFO  [Log] Action keyword = input 
+2022-04-05 23:44:39,770 INFO  [Log] Page Object = //input[@name='uid'] 
+2022-04-05 23:44:39,770 INFO  [Log] Data set = mngr260207 
+2022-04-05 23:44:39,771 INFO  [Log] Entering the text in //input[@name='uid'] 
+2022-04-05 23:44:40,233 INFO  [Log] Action keyword = input 
+2022-04-05 23:44:40,233 INFO  [Log] Page Object = //input[@name='password'] 
+2022-04-05 23:44:40,233 INFO  [Log] Data set = ehehege 
+2022-04-05 23:44:40,233 INFO  [Log] Entering the text in //input[@name='password'] 
+2022-04-05 23:44:40,498 INFO  [Log] Action keyword = click 
+2022-04-05 23:44:40,498 INFO  [Log] Page Object = //input[@name='btnLogin'] 
+2022-04-05 23:44:40,499 INFO  [Log] Data set =  
+2022-04-05 23:44:40,499 INFO  [Log] Clicking on Webelement //input[@name='btnLogin'] 
+2022-04-05 23:44:41,126 INFO  [Log] Action keyword = isControlDisplayed 
+2022-04-05 23:44:41,127 INFO  [Log] Page Object = //a[contains(text(),'Manager')] 
+2022-04-05 23:44:41,127 INFO  [Log] Data set =  
+2022-04-05 23:44:41,127 INFO  [Log] Check WebElement is displayed //a[contains(text(),'Manager')] 
+2022-04-05 23:44:41,155 ERROR [Log] Control not displayed --- unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=99.0.4844.84): User or Password is not valid
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-11PKG1U', ip: '192.168.45.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52246}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d002b736ed7f9be46f5beea59bf5f4d0
+*** Element info: {Using=xpath, value=//a[contains(text(),'Manager')]} 
+2022-04-05 23:44:41,348 INFO  [Log] Closing the browser 
+2022-04-05 23:47:19,388 INFO  [Log] Total testcase = 6 
+2022-04-05 23:47:19,394 INFO  [Log] Total testcase = LogIn_01 
+2022-04-05 23:47:19,394 INFO  [Log] Run mode = Yes 
+2022-04-05 23:47:19,394 INFO  [Log] Teststep = 1 
+2022-04-05 23:47:19,397 INFO  [Log] Last step = 22 
+2022-04-05 23:47:19,398 INFO  [Log] Action keyword = openBrowser 
+2022-04-05 23:47:19,398 INFO  [Log] Page Object =  
+2022-04-05 23:47:19,398 INFO  [Log] Data set = Chrome 
+2022-04-05 23:47:19,398 INFO  [Log] Opening Browser 
+2022-04-05 23:47:22,061 INFO  [Log] Chrome browser started 
+2022-04-05 23:47:22,478 INFO  [Log] Action keyword = navigate 
+2022-04-05 23:47:22,478 INFO  [Log] Page Object =  
+2022-04-05 23:47:22,478 INFO  [Log] Data set =  
+2022-04-05 23:47:22,478 INFO  [Log] Navigating to URL 
+2022-04-05 23:47:26,682 INFO  [Log] Action keyword = input 
+2022-04-05 23:47:26,682 INFO  [Log] Page Object = //input[@name='uid'] 
+2022-04-05 23:47:26,682 INFO  [Log] Data set = mngr260207 
+2022-04-05 23:47:26,682 INFO  [Log] Entering the text in //input[@name='uid'] 
+2022-04-05 23:47:27,103 INFO  [Log] Action keyword = input 
+2022-04-05 23:47:27,103 INFO  [Log] Page Object = //input[@name='password'] 
+2022-04-05 23:47:27,103 INFO  [Log] Data set = ehehege 
+2022-04-05 23:47:27,104 INFO  [Log] Entering the text in //input[@name='password'] 
+2022-04-05 23:47:27,287 INFO  [Log] Action keyword = click 
+2022-04-05 23:47:27,287 INFO  [Log] Page Object = //input[@name='btnLogin'] 
+2022-04-05 23:47:27,333 INFO  [Log] Data set =  
+2022-04-05 23:47:27,333 INFO  [Log] Clicking on Webelement //input[@name='btnLogin'] 
+2022-04-05 23:47:27,965 INFO  [Log] Action keyword = isControlDisplayed 
+2022-04-05 23:47:27,965 INFO  [Log] Page Object = //a[contains(text(),'Manager')] 
+2022-04-05 23:47:27,965 INFO  [Log] Data set =  
+2022-04-05 23:47:27,965 INFO  [Log] Check WebElement is displayed //a[contains(text(),'Manager')] 
+2022-04-05 23:47:28,007 ERROR [Log] Control not displayed --- unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=99.0.4844.84): User or Password is not valid
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-11PKG1U', ip: '192.168.45.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62767}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b3cfdc0b662db468c002b87715eeb14c
+*** Element info: {Using=xpath, value=//a[contains(text(),'Manager')]} 
+2022-04-05 23:47:28,162 INFO  [Log] Closing the browser 
+2022-04-05 23:48:55,842 INFO  [Log] Total testcase = 6 
+2022-04-05 23:48:55,847 INFO  [Log] Total testcase = LogIn_01 
+2022-04-05 23:48:55,847 INFO  [Log] Run mode = Yes 
+2022-04-05 23:48:55,847 INFO  [Log] Teststep = 1 
+2022-04-05 23:48:55,851 INFO  [Log] Last step = 22 
+2022-04-05 23:48:55,851 INFO  [Log] Action keyword = openBrowser 
+2022-04-05 23:48:55,851 INFO  [Log] Page Object =  
+2022-04-05 23:48:55,852 INFO  [Log] Data set = Chrome 
+2022-04-05 23:48:55,852 INFO  [Log] Opening Browser 
+2022-04-05 23:48:58,445 INFO  [Log] Chrome browser started 
+2022-04-05 23:48:58,917 INFO  [Log] Action keyword = navigate 
+2022-04-05 23:48:58,918 INFO  [Log] Page Object =  
+2022-04-05 23:48:58,918 INFO  [Log] Data set =  
+2022-04-05 23:48:58,918 INFO  [Log] Navigating to URL 
+2022-04-05 23:49:03,121 INFO  [Log] Action keyword = input 
+2022-04-05 23:49:03,122 INFO  [Log] Page Object = //input[@name='uid'] 
+2022-04-05 23:49:03,122 INFO  [Log] Data set = mngr260207 
+2022-04-05 23:49:03,122 INFO  [Log] Entering the text in //input[@name='uid'] 
+2022-04-05 23:49:03,519 INFO  [Log] Action keyword = input 
+2022-04-05 23:49:03,520 INFO  [Log] Page Object = //input[@name='password'] 
+2022-04-05 23:49:03,520 INFO  [Log] Data set = ehehege 
+2022-04-05 23:49:03,522 INFO  [Log] Entering the text in //input[@name='password'] 
+2022-04-05 23:49:03,898 INFO  [Log] Action keyword = click 
+2022-04-05 23:49:03,898 INFO  [Log] Page Object = //input[@name='btnLogin'] 
+2022-04-05 23:49:03,899 INFO  [Log] Data set =  
+2022-04-05 23:49:03,899 INFO  [Log] Clicking on Webelement //input[@name='btnLogin'] 
+2022-04-05 23:49:04,450 INFO  [Log] Action keyword = isControlDisplayed 
+2022-04-05 23:49:04,450 INFO  [Log] Page Object = //a[contains(text(),'Manager')] 
+2022-04-05 23:49:04,450 INFO  [Log] Data set =  
+2022-04-05 23:49:04,450 INFO  [Log] Check WebElement is displayed //a[contains(text(),'Manager')] 
+2022-04-05 23:49:04,489 ERROR [Log] Control not displayed --- unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=99.0.4844.84): User or Password is not valid
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-11PKG1U', ip: '192.168.45.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62840}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed476bf752883e43119065bbc4dad732
+*** Element info: {Using=xpath, value=//a[contains(text(),'Manager')]} 
+2022-04-05 23:49:04,648 INFO  [Log] Closing the browser 
+2022-04-06 07:24:48,528 INFO  [Log] Total testcase = 6 
+2022-04-06 07:24:48,534 INFO  [Log] Total testcase = LogIn_01 
+2022-04-06 07:24:48,535 INFO  [Log] Run mode = Yes 
+2022-04-06 07:24:48,535 INFO  [Log] Teststep = 1 
+2022-04-06 07:24:48,538 INFO  [Log] Last step = 22 
+2022-04-06 07:24:48,538 INFO  [Log] Action keyword = openBrowser 
+2022-04-06 07:24:48,539 INFO  [Log] Page Object =  
+2022-04-06 07:24:48,539 INFO  [Log] Data set = Chrome 
+2022-04-06 07:24:48,539 INFO  [Log] Opening Browser 
+2022-04-06 07:24:51,924 INFO  [Log] Chrome browser started 
+2022-04-06 07:24:52,439 INFO  [Log] Action keyword = navigate 
+2022-04-06 07:24:52,439 INFO  [Log] Page Object =  
+2022-04-06 07:24:52,439 INFO  [Log] Data set =  
+2022-04-06 07:24:52,440 INFO  [Log] Navigating to URL 
+2022-04-06 07:24:56,358 INFO  [Log] Action keyword = input 
+2022-04-06 07:24:56,358 INFO  [Log] Page Object = //input[@name='uid'] 
+2022-04-06 07:24:56,358 INFO  [Log] Data set = mngr397860 
+2022-04-06 07:24:56,358 INFO  [Log] Entering the text in //input[@name='uid'] 
+2022-04-06 07:24:56,710 INFO  [Log] Action keyword = input 
+2022-04-06 07:24:56,710 INFO  [Log] Page Object = //input[@name='password'] 
+2022-04-06 07:24:56,710 INFO  [Log] Data set = urAsurE 
+2022-04-06 07:24:56,710 INFO  [Log] Entering the text in //input[@name='password'] 
+2022-04-06 07:24:57,166 INFO  [Log] Action keyword = click 
+2022-04-06 07:24:57,166 INFO  [Log] Page Object = //input[@name='btnLogin'] 
+2022-04-06 07:24:57,166 INFO  [Log] Data set =  
+2022-04-06 07:24:57,167 INFO  [Log] Clicking on Webelement //input[@name='btnLogin'] 
+2022-04-06 07:24:58,832 INFO  [Log] Action keyword = isControlDisplayed 
+2022-04-06 07:24:58,833 INFO  [Log] Page Object = //a[contains(text(),'Manager')] 
+2022-04-06 07:24:58,833 INFO  [Log] Data set =  
+2022-04-06 07:24:58,833 INFO  [Log] Check WebElement is displayed //a[contains(text(),'Manager')] 
+2022-04-06 07:24:59,450 INFO  [Log] Action keyword = click 
+2022-04-06 07:24:59,451 INFO  [Log] Page Object = //a[contains(text(),'New Customer')] 
+2022-04-06 07:24:59,451 INFO  [Log] Data set =  
+2022-04-06 07:24:59,451 INFO  [Log] Clicking on Webelement //a[contains(text(),'New Customer')] 
+2022-04-06 07:24:59,627 INFO  [Log] Action keyword = isControlDisplayed 
+2022-04-06 07:24:59,627 INFO  [Log] Page Object = //input[@name='name'] 
+2022-04-06 07:24:59,627 INFO  [Log] Data set =  
+2022-04-06 07:24:59,627 INFO  [Log] Check WebElement is displayed //input[@name='name'] 
+2022-04-06 07:25:03,758 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:03,758 INFO  [Log] Page Object = //input[@name='name'] 
+2022-04-06 07:25:03,758 INFO  [Log] Data set = John Terry 
+2022-04-06 07:25:03,758 INFO  [Log] Entering the text in //input[@name='name'] 
+2022-04-06 07:25:04,108 INFO  [Log] Action keyword = click 
+2022-04-06 07:25:04,109 INFO  [Log] Page Object = //input[@value='m'] 
+2022-04-06 07:25:04,109 INFO  [Log] Data set =  
+2022-04-06 07:25:04,109 INFO  [Log] Clicking on Webelement //input[@value='m'] 
+2022-04-06 07:25:04,383 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:04,383 INFO  [Log] Page Object = //*[@id='dob'] 
+2022-04-06 07:25:04,383 INFO  [Log] Data set = 01-01-1999 
+2022-04-06 07:25:04,383 INFO  [Log] Entering the text in //*[@id='dob'] 
+2022-04-06 07:25:04,650 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:04,651 INFO  [Log] Page Object = //textarea[@name='addr'] 
+2022-04-06 07:25:04,651 INFO  [Log] Data set = 209 PO Box 
+2022-04-06 07:25:04,651 INFO  [Log] Entering the text in //textarea[@name='addr'] 
+2022-04-06 07:25:04,833 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:04,833 INFO  [Log] Page Object = //input[@name='city'] 
+2022-04-06 07:25:04,834 INFO  [Log] Data set = Los Angeles 
+2022-04-06 07:25:04,834 INFO  [Log] Entering the text in //input[@name='city'] 
+2022-04-06 07:25:05,037 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:05,037 INFO  [Log] Page Object = //input[@name='state'] 
+2022-04-06 07:25:05,037 INFO  [Log] Data set = Hawaii 
+2022-04-06 07:25:05,037 INFO  [Log] Entering the text in //input[@name='state'] 
+2022-04-06 07:25:05,215 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:05,215 INFO  [Log] Page Object = //input[@name='pinno'] 
+2022-04-06 07:25:05,215 INFO  [Log] Data set = 635985 
+2022-04-06 07:25:05,215 INFO  [Log] Entering the text in //input[@name='pinno'] 
+2022-04-06 07:25:05,365 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:05,365 INFO  [Log] Page Object = //input[@name='telephoneno'] 
+2022-04-06 07:25:05,365 INFO  [Log] Data set = 0987336985 
+2022-04-06 07:25:05,365 INFO  [Log] Entering the text in //input[@name='telephoneno'] 
+2022-04-06 07:25:05,556 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:05,557 INFO  [Log] Page Object = //input[@name='emailid'] 
+2022-04-06 07:25:05,557 INFO  [Log] Data set = daominhdam1588947@gmail.com 
+2022-04-06 07:25:05,557 INFO  [Log] Entering the text in //input[@name='emailid'] 
+2022-04-06 07:25:05,754 INFO  [Log] Action keyword = input 
+2022-04-06 07:25:05,754 INFO  [Log] Page Object = //input[@name='password'] 
+2022-04-06 07:25:05,754 INFO  [Log] Data set = 123456 
+2022-04-06 07:25:05,754 INFO  [Log] Entering the text in //input[@name='password'] 
+2022-04-06 07:25:05,888 INFO  [Log] Action keyword = click 
+2022-04-06 07:25:05,888 INFO  [Log] Page Object = //input[@name='sub'] 
+2022-04-06 07:25:05,888 INFO  [Log] Data set =  
+2022-04-06 07:25:05,888 INFO  [Log] Clicking on Webelement //input[@name='sub'] 
+2022-04-06 07:25:07,498 INFO  [Log] Action keyword = isControlDisplayed 
+2022-04-06 07:25:07,498 INFO  [Log] Page Object = //p[contains(text(),'Customer Registered Successfully!!!')] 
+2022-04-06 07:25:07,498 INFO  [Log] Data set =  
+2022-04-06 07:25:07,498 INFO  [Log] Check WebElement is displayed //p[contains(text(),'Customer Registered Successfully!!!')] 
+2022-04-06 07:25:07,794 INFO  [Log] Action keyword = closeBrowser 
+2022-04-06 07:25:07,794 INFO  [Log] Page Object =  
+2022-04-06 07:25:07,794 INFO  [Log] Data set =  
+2022-04-06 07:25:07,794 INFO  [Log] Closing the browser 
